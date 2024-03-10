@@ -3,7 +3,7 @@
  * @version: 1.0
  * @Author: luxin
  * @Date: 2024-03-10 21:25:44
- * @LastEditTime: 2024-03-10 21:32:37
+ * @LastEditTime: 2024-03-10 21:48:47
 -->
 # GIDC
 
@@ -21,3 +21,8 @@ Ghost imaging (GI) facilitates image acquisition under low-light conditions by s
 - prepare the correct env and download the data.mat
 - transfer the tensorflow to the pytorch framwork and test the data you captured in the ground truth
 - prepare the file in the same folder path and get the correct speckel pattern math with the data
+
+## Plan
+- prepare the pytorch framwork for the GIDC and test the Imaging quality
+- prepare the GAN and the Extenion GAN Model to test the Imaging quality
+- prepare the Cycle and Dual Network Construction to test the Imaging quality
