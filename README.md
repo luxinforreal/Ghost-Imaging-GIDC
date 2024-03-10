@@ -3,7 +3,7 @@
  * @version: 1.0
  * @Author: luxin
  * @Date: 2024-03-10 21:25:44
- * @LastEditTime: 2024-03-10 21:48:47
+ * @LastEditTime: 2024-03-10 22:39:17
 -->
 # GIDC
 
@@ -24,5 +24,6 @@ Ghost imaging (GI) facilitates image acquisition under low-light conditions by s
 
 ## Plan
 - prepare the pytorch framwork for the GIDC and test the Imaging quality
-- prepare the GAN and the Extenion GAN Model to test the Imaging quality
+- prepare the GAN and the Extension GAN Model to test the Imaging quality
 - prepare the Cycle and Dual Network Construction to test the Imaging quality
+- use the present model construction to get the present solution to define the quality
