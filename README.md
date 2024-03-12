@@ -3,7 +3,7 @@
  * @version: 1.0
  * @Author: luxin
  * @Date: 2024-03-10 21:25:44
- * @LastEditTime: 2024-03-12 10:56:05
+ * @LastEditTime: 2024-03-12 11:15:32
 -->
 # GIDC
 
@@ -27,3 +27,5 @@ Here is the brief abstract for the target paper: Ghost imaging (GI) facilitates 
 - prepare the GAN and the Extension GAN Model to test the Imaging quality
 - prepare the Cycle and Dual Network Construction to test the Imaging quality
 - use the present model construction to get the present solution to define the quality
+
+## Folder Construction
