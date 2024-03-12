@@ -1,7 +1,14 @@
+'''
+Descripttion: your project
+version: 1.0
+Author: luxin
+Date: 2024-03-10 21:25:44
+LastEditTime: 2024-03-12 11:13:27
+'''
 import scipy.io as sio
 from PIL import Image
 
-mat_data = sio.loadmat(r"C:\Users\luxin\Desktop\NLOS+SPI\GIDC-main\GIDC-main\data.mat")
+mat_data = sio.loadmat("D:\\Github\\Ghost-Imaging-GIDC\\data.mat")
 print(mat_data)
 print(mat_data.keys())
 
