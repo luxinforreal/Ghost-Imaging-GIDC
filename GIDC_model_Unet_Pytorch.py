@@ -1,9 +1,9 @@
 '''
-Descripttion: your project
+Descripttion: 改写tensorflow中的GIDC_Unet模型为pytorch框架模型
 version: 1.0
 Author: luxin
 Date: 2024-03-10 22:34:35
-LastEditTime: 2024-03-10 22:34:39
+LastEditTime: 2024-03-12 11:16:27
 '''
 import torch
 import torch.nn as nn
